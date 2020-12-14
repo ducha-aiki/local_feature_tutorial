@@ -1,6 +1,7 @@
 {
   "local_feature_tutorial": {
     "Overview": "/",
+    "KP2D": "KP2D.html",
     "Datasets": "datasets.html",
     "IO": "io.html",
     "Retrieval": "retrieval.html",
